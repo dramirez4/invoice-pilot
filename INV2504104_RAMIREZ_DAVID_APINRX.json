@@ -1,0 +1,205 @@
+{
+    "status": "success",
+    "message": "Success",
+    "pageCount": 4,
+    "url": "https://pdf-temp-files.s3.us-west-2.amazonaws.com/MU8OYRCRGPZDRWZX96YUJDIFOGYPKMDV--155-100/invoice.json?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIZJDPLX6D7EHVCKA/20250302/us-west-2/s3/aws4_request&X-Amz-Date=20250302T053802Z&X-Amz-SignedHeaders=host&X-Amz-Signature=a8085dd41388eb345dced8ed9da5b096c80ef9f57df7ddcdb55699a9e340184b",
+    "body": {
+        "vendor": {
+            "name": "BANK OF AMERICA CPR",
+            "address": {
+                "streetAddress": "ONE BRYANT PARK",
+                "city": "NEW YORK",
+                "state": "NY",
+                "postalCode": "10036",
+                "country": ""
+            },
+            "contactInformation": {
+                "phone": "",
+                "fax": "",
+                "email": ""
+            },
+            "entityId": ""
+        },
+        "customer": {
+            "billTo": {
+                "name": "RAMIREZ/DAVID SANTIAGO",
+                "address": {
+                    "streetAddress": "",
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": ""
+                },
+                "contactInformation": {
+                    "phone": "",
+                    "email": ""
+                },
+                "entityId": ""
+            },
+            "shipTo": {
+                "name": "",
+                "address": {
+                    "streetAddress": "",
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": ""
+                },
+                "contactInformation": {
+                    "phone": "",
+                    "email": ""
+                }
+            }
+        },
+        "invoice": {
+            "invoiceNo": "2504104",
+            "invoiceDate": "07 April 2023",
+            "poNo": "APINRX",
+            "orderNo": "APINRX-1S",
+            "deliveryDate": ""
+        },
+        "paymentDetails": {
+            "paymentTerms": "",
+            "dueDate": "",
+            "total": "573.59",
+            "subtotal": "489.94",
+            "tax": "83.65",
+            "discount": "",
+            "shipping": "",
+            "bankingInformation": {
+                "bankName": "",
+                "accountHolderName": "",
+                "accountNumber": "",
+                "iban": "",
+                "swiftBicCode": "",
+                "bankAddress": {
+                    "streetAddress": "",
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": ""
+                },
+                "bankRoutingCode": "",
+                "bankCode": "",
+                "branchNumber": "",
+                "purposeCode": "",
+                "additionalNotes": ""
+            }
+        },
+        "others": {
+            "notes": "For After Hours Emergency Assistance Call 800-752-9180 International May Call 669-272-1342 For After Hours Always Reference Access Code X0dc. Contact Travel Office For Questions Regarding Reservation--I.E. Cancellations-Delays- Fees- Etc. Advise Travel Office For Changes- Cancellations Or If Any Portion Of Ticket Is Unused. This Is An Electronic Ticket Please Review The Attached Itinerary For Accuracy. This Is An Advanced Purchase Nonrefundable Fare Any Changes May Result In A Higher Fare And Change. Roundtrip Cost For Meeting...............573.59\nFare With Deviation......................000.00\nDifference Of Fare.......................000.00\nAttendee Is Responsible For The Difference In Fare.\nThe Only Reimbursable Amount Is The Meeting Fare."
+        },
+        "lineItems": [
+            {
+                "Ticket Number": "0067960091366",
+                "Airline Name": "DELTA AIR LINES INC",
+                "Passenger Name": "RAMIREZ/DAVID SANTIAGO",
+                "Flight Details": "26 Apr 2023 DELTA AIRLINES 4903 T Class BINGHAMTON,NY/NEW YORK/LGA,NY; 26 Apr 2023 DELTA AIRLINES 5807 V Class NEW YORK/LGA,NY/CHARLOTTE,NC; 28 Apr 2023 DELTA AIRLINES 5766 T Class CHARLOTTE,NC/NEW YORK/LGA,NY; 28 Apr 2023 DELTA AIRLINES 4639 T Class NEW YORK/LGA,NY/BINGHAMTON,NY"
+            },
+            {
+                "Date": "Wednesday 26 April 2023",
+                "Route": "Binghamton (BGM) to New York (LGA)",
+                "Airline Booking Ref": "HNQ2LB",
+                "Carrier": "DELTA AIR LINES INC",
+                "Flight": "DL 4903",
+                "Status": "Confirmed",
+                "Operated By": "/ENDEAVOR AIR DBA DELTA CONNECTION",
+                "Origin": "Binghamton, NY, Binghamton (BGM)",
+                "Departing": "Wednesday 26 April 2023 at 05:25 AM",
+                "Departure Terminal": "Not Applicable",
+                "Destination": "New York, NY, New York LaGuardia Apt (LGA)",
+                "Arriving": "Wednesday 26 April 2023 at 06:25 AM",
+                "Arrival Terminal": "TERMINAL C",
+                "Additional Information": {
+                    "Class": "ECONOMY",
+                    "Distance": "146 Miles",
+                    "Estimated Time": "01 hour 00 minute",
+                    "Aircraft Type": "Canadair 900",
+                    "Seat": "15C",
+                    "Meal Service": "Not Applicable",
+                    "Frequent Flyer Number": "Not Applicable",
+                    "Number of Stops": "0"
+                }
+            },
+            {
+                "Date": "Wednesday 26 April 2023",
+                "Route": "New York (LGA) to Charlotte (CLT)",
+                "Airline Booking Ref": "HNQ2LB",
+                "Carrier": "DELTA AIR LINES INC",
+                "Flight": "DL 5807",
+                "Status": "Confirmed",
+                "Operated By": "/REPUBLIC AIRWAYS DELTA CONNECTION",
+                "Origin": "New York, NY, New York LaGuardia Apt (LGA)",
+                "Departing": "Wednesday 26 April 2023 at 08:20 AM",
+                "Departure Terminal": "TERMINAL C",
+                "Destination": "Charlotte, NC, Charlotte (CLT)",
+                "Arriving": "Wednesday 26 April 2023 at 10:38 AM",
+                "Arrival Terminal": "Not Applicable",
+                "Additional Information": {
+                    "Class": "ECONOMY",
+                    "Distance": "543 Miles",
+                    "Estimated Time": "02 hours 18 minutes",
+                    "Aircraft Type": "EMBRAER 175",
+                    "Seat": "14C",
+                    "Meal Service": "Not Applicable",
+                    "Frequent Flyer Number": "Not Applicable",
+                    "Number of Stops": "0"
+                }
+            },
+            {
+                "Date": "Friday 28 April 2023",
+                "Route": "Charlotte (CLT) to New York (LGA)",
+                "Airline Booking Ref": "HNQ2LB",
+                "Carrier": "DELTA AIR LINES INC",
+                "Flight": "DL 5766",
+                "Status": "Confirmed",
+                "Operated By": "/REPUBLIC AIRWAYS DELTA CONNECTION",
+                "Origin": "Charlotte, NC, Charlotte (CLT)",
+                "Departing": "Friday 28 April 2023 at 04:30 PM",
+                "Departure Terminal": "Not Applicable",
+                "Destination": "New York, NY, New York LaGuardia Apt (LGA)",
+                "Arriving": "Friday 28 April 2023 at 06:29 PM",
+                "Arrival Terminal": "TERMINAL C",
+                "Additional Information": {
+                    "Class": "ECONOMY",
+                    "Distance": "543 Miles",
+                    "Estimated Time": "01 hour 59 minutes",
+                    "Aircraft Type": "Embraer 170",
+                    "Seat": "11C",
+                    "Meal Service": "Not Applicable",
+                    "Frequent Flyer Number": "Not Applicable",
+                    "Number of Stops": "0"
+                }
+            },
+            {
+                "Date": "Friday 28 April 2023",
+                "Route": "New York (LGA) to Binghamton (BGM)",
+                "Airline Booking Ref": "HNQ2LB",
+                "Carrier": "DELTA AIR LINES INC",
+                "Flight": "DL 4639",
+                "Status": "Confirmed",
+                "Operated By": "/ENDEAVOR AIR DBA DELTA CONNECTION",
+                "Origin": "New York, NY, New York LaGuardia Apt (LGA)",
+                "Departing": "Friday 28 April 2023 at 08:30 PM",
+                "Departure Terminal": "TERMINAL C",
+                "Destination": "Binghamton, NY, Binghamton (BGM)",
+                "Arriving": "Friday 28 April 2023 at 09:45 PM",
+                "Arrival Terminal": "Not Applicable",
+                "Additional Information": {
+                    "Class": "ECONOMY",
+                    "Distance": "146 Miles",
+                    "Estimated Time": "01 hour 15 minutes",
+                    "Aircraft Type": "Canadair 900",
+                    "Seat": "14C",
+                    "Meal Service": "Not Applicable",
+                    "Frequent Flyer Number": "Not Applicable",
+                    "Number of Stops": "0"
+                }
+            }
+        ]
+    },
+    "jobId": "MU8OYRCRGPZDRWZX96YUJDIFOGYPKMDV--155-100",
+    "credits": 2,
+    "remainingCredits": 4336,
+    "duration": 79
+}
